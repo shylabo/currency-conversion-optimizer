@@ -1,0 +1,317 @@
+[
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "HKD",
+    "toCurrencyName": "Hong Kong Dollar"
+  },
+  {
+    "exchangeRate": 3,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "USD",
+    "toCurrencyName": "USA Dollar"
+  },
+  {
+    "exchangeRate": 3,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "HKD",
+    "toCurrencyName": "Hong Kong Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "BRL",
+    "toCurrencyName": "Brazil Real"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "EUR",
+    "toCurrencyName": "Euro"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "HKD",
+    "fromCurrencyName": "Hong Kong Dollar",
+    "toCurrencyCode": "PHP",
+    "toCurrencyName": "Philippines Peso"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "HKD",
+    "fromCurrencyName": "Hong Kong Dollar",
+    "toCurrencyCode": "INR",
+    "toCurrencyName": "India Rupee"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "HKD",
+    "fromCurrencyName": "Hong Kong Dollar",
+    "toCurrencyCode": "VND",
+    "toCurrencyName": "Vietnam Dong"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "PHP",
+    "fromCurrencyName": "Philippines Peso",
+    "toCurrencyCode": "KRW",
+    "toCurrencyName": "South Korea Won"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "KRW",
+    "fromCurrencyName": "South Korea Won",
+    "toCurrencyCode": "SGD",
+    "toCurrencyName": "Singapore Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "SGD",
+    "fromCurrencyName": "Singapore Dollar",
+    "toCurrencyCode": "THB",
+    "toCurrencyName": "Thailand Baht"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "JPY",
+    "toCurrencyName": "Japan Yen"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "MXN",
+    "toCurrencyName": "Mexico Peso"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "SAR",
+    "toCurrencyName": "Saudi Arabia Riyal"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "SAR",
+    "fromCurrencyName": "Saudi Arabia Riyal",
+    "toCurrencyCode": "UYU",
+    "toCurrencyName": "Uruguay Peso"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "SAR",
+    "fromCurrencyName": "Saudi Arabia Riyal",
+    "toCurrencyCode": "LRD",
+    "toCurrencyName": "Liberia Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "SAR",
+    "fromCurrencyName": "Saudi Arabia Riyal",
+    "toCurrencyCode": "SDG",
+    "toCurrencyName": "Sudan Pound"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "LRD",
+    "fromCurrencyName": "Liberia Dollar",
+    "toCurrencyCode": "DZD",
+    "toCurrencyName": "Algeria Dinar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "GBP",
+    "fromCurrencyName": "Great Britain Pound",
+    "toCurrencyCode": "LRD",
+    "toCurrencyName": "Liberia Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "GBP",
+    "fromCurrencyName": "Great Britain Pound",
+    "toCurrencyCode": "LBP",
+    "toCurrencyName": "Lebanon Pound"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "GBP",
+    "fromCurrencyName": "Great Britain Pound",
+    "toCurrencyCode": "NOK",
+    "toCurrencyName": "Norway Kroner"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "NOK",
+    "fromCurrencyName": "Norway Kroner",
+    "toCurrencyCode": "SEK",
+    "toCurrencyName": "Sweden Krona"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "SEK",
+    "fromCurrencyName": "Sweden Krona",
+    "toCurrencyCode": "TRY",
+    "toCurrencyName": "Turkish New Lira"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "SEK",
+    "fromCurrencyName": "Sweden Krona",
+    "toCurrencyCode": "CHF",
+    "toCurrencyName": "Switzerland Franc"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BRL",
+    "fromCurrencyName": "Brazil Real",
+    "toCurrencyCode": "TTD",
+    "toCurrencyName": "Trinidad/Tobago Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BRL",
+    "fromCurrencyName": "Brazil Real",
+    "toCurrencyCode": "UYU",
+    "toCurrencyName": "Uruguay Peso"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "UYU",
+    "fromCurrencyName": "Uruguay Peso",
+    "toCurrencyCode": "TND",
+    "toCurrencyName": "Tunisia Dinar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BRL",
+    "fromCurrencyName": "Brazil Real",
+    "toCurrencyCode": "ARS",
+    "toCurrencyName": "Argentina Peso"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "NZD",
+    "toCurrencyName": "New Zealand Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "AUD",
+    "toCurrencyName": "Australia Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "BZD",
+    "toCurrencyName": "Belize Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BBD",
+    "fromCurrencyName": "Barbados Dollar",
+    "toCurrencyCode": "KYD",
+    "toCurrencyName": "Cayman Islands Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "CNY",
+    "toCurrencyName": "China Yuan/Renminbi"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "CNY",
+    "fromCurrencyName": "China Yuan/Renminbi",
+    "toCurrencyCode": "HKD",
+    "toCurrencyName": "Hong Kong Dollar"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "GBP",
+    "toCurrencyName": "Great Britain Pound"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "BTC",
+    "toCurrencyName": "Bitcoin"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "ETH",
+    "toCurrencyName": "Ethereum"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "BAN",
+    "toCurrencyName": "Banano"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "NANO",
+    "toCurrencyName": "Nano"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "NANO",
+    "fromCurrencyName": "Nano",
+    "toCurrencyCode": "ADA",
+    "toCurrencyName": "Cardano"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "NANO",
+    "fromCurrencyName": "Nano",
+    "toCurrencyCode": "DOGE",
+    "toCurrencyName": "Dogecoin"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "ADA",
+    "fromCurrencyName": "Cardano",
+    "toCurrencyCode": "LTC",
+    "toCurrencyName": "Litecoin"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "ADA",
+    "fromCurrencyName": "Cardano",
+    "toCurrencyCode": "ALGO",
+    "toCurrencyName": "Algorand"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "ALGO",
+    "fromCurrencyName": "Alogorand",
+    "toCurrencyCode": "BCH",
+    "toCurrencyName": "BitcoinCash"
+  },
+  {
+    "exchangeRate": 1,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "BCH",
+    "toCurrencyName": "BitcoinCash"
+  }
+]

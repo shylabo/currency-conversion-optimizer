@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "strict": true,
+    "resolveJsonModule": true // for local test
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
