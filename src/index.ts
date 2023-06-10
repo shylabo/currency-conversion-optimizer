@@ -88,8 +88,7 @@ function exportToCSV(conversionResults: ConversionResult[]): void {
 
   for (const result of conversionResults) {
     const { currencyCode, currencyName, amount, path } = result
-    // The decimal point is set to 6 digits as relatively small numbers such as BTC are included.
-    csv += `${currencyCode},${currencyName},${amount.toFixed(6)},${path}\n`
+    csv += `${currencyCode},${currencyName},${amount},${path}\n`
   }
 
   const fileName = 'optimal_conversions.csv'

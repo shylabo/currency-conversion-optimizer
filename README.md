@@ -33,4 +33,3 @@ $ npm run dev
 - If there are multiple ways to convert, pick one with maximum amount and minimum path.
 - Traverse all the nodes using DFS algorithm until all currencies can no longer be converted.
 - BBD and KYD can not be exchanged from CAD based on the response.
-- The decimal point is set to 6 digits as relatively small numbers such as BTC are included.
